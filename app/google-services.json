@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937978950604",
+    "project_id": "smartnest-69b41",
+    "storage_bucket": "smartnest-69b41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937978950604:android:634e7238f2bc44cad92369",
+        "android_client_info": {
+          "package_name": "com.smartnest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAddG_yxLsLInJEq9zOPBRCBwZXtH87V0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
